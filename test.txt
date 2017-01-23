@@ -1,0 +1,5 @@
+Does including the issue number in a commit message 
+without using "Fixes #..." etc. 
+create a link in the issue 
+without closing the Issue?
+Let's find out.
